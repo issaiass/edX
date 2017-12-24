@@ -1,0 +1,10 @@
+.\objects\gpio.o: ..\inc\GPIO.c
+.\objects\gpio.o: ..\inc\msp432p401r.h
+.\objects\gpio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gpio.o: C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include\msp_compatibility.h
+.\objects\gpio.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h
+.\objects\gpio.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\gpio.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\gpio.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\gpio.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h
+.\objects\gpio.o: ..\inc\GPIO.h

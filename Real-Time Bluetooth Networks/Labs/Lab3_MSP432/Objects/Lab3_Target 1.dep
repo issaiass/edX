@@ -1,0 +1,49 @@
+Dependencies for Project 'Lab3', Target 'Target 1': (DO NOT MODIFY !)
+F (..\inc\BSP.c)(0x57E1AD64)(--c99 -c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections --signed_chars -I..\inc-I C:\Keil_v5\TM4C123ValvanoWare\MSP432ValvanoWare\Lab3_MSP432\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -D__MSP432P401R__-o .\objects\bsp.o --omf_browse .\objects\bsp.crf --depend .\objects\bsp.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\inc\../inc/BSP.h)(0x5760AD9E)
+I (..\inc\../inc/CortexM.h)(0x57D2F192)
+I (..\inc\../inc/msp432p401r.h)(0x54EE1EA6)
+I (C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include\msp_compatibility.h)(0x55EF37AA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x56266DDC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56265A20)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56265A20)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56265A20)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x56265A20)
+F (..\inc\CortexM.c)(0x57E1D690)(--c99 -c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections --signed_chars -I..\inc-I C:\Keil_v5\TM4C123ValvanoWare\MSP432ValvanoWare\Lab3_MSP432\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -D__MSP432P401R__-o .\objects\cortexm.o --omf_browse .\objects\cortexm.crf --depend .\objects\cortexm.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+F (.\Lab3.c)(0x581E0A4C)(--c99 -c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections --signed_chars -I..\inc-I C:\Keil_v5\TM4C123ValvanoWare\MSP432ValvanoWare\Lab3_MSP432\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -D__MSP432P401R__-o .\objects\lab3.o --omf_browse .\objects\lab3.crf --depend .\objects\lab3.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (../inc/BSP.h)(0x5760AD9E)
+I (../inc/CortexM.h)(0x57D2F192)
+I (os.h)(0x57BE6C14)
+I (../inc/Profile.h)(0x575D75F6)
+I (Texas.h)(0x56F45F86)
+F (.\os.c)(0x581E095F)(--c99 -c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections --signed_chars -I..\inc-I C:\Keil_v5\TM4C123ValvanoWare\MSP432ValvanoWare\Lab3_MSP432\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -D__MSP432P401R__-o .\objects\os.o --omf_browse .\objects\os.crf --depend .\objects\os.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (os.h)(0x57BE6C14)
+I (..\inc\CortexM.h)(0x57D2F192)
+I (..\inc\BSP.h)(0x5760AD9E)
+F (.\osasm.s)(0x581DC6DD)(--cpu Cortex-M4 -g --apcs=interwork -I C:\Keil_v5\TM4C123ValvanoWare\MSP432ValvanoWare\Lab3_MSP432\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include--pd "__UVISION_VERSION SETA 514" --pd "_RTE_ SETA 1" --pd "__MSP432P401R__ SETA 1"--list .\listings\osasm.lst --xref -o .\objects\osasm.o --depend .\objects\osasm.d)
+F (..\inc\Profile.c)(0x5760C05C)(--c99 -c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections --signed_chars -I..\inc-I C:\Keil_v5\TM4C123ValvanoWare\MSP432ValvanoWare\Lab3_MSP432\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -D__MSP432P401R__-o .\objects\profile.o --omf_browse .\objects\profile.crf --depend .\objects\profile.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\inc\../inc/msp432p401r.h)(0x54EE1EA6)
+I (C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include\msp_compatibility.h)(0x55EF37AA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x56266DDC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56265A20)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56265A20)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56265A20)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x56265A20)
+F (.\texas.o)(0x57D7F2D2)()
+F (RTE\Device\MSP432P401R\startup_msp432.s)(0x5536F476)(--cpu Cortex-M4 -g --apcs=interwork -I C:\Keil_v5\TM4C123ValvanoWare\MSP432ValvanoWare\Lab3_MSP432\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include--pd "__UVISION_VERSION SETA 514" --pd "_RTE_ SETA 1" --pd "__MSP432P401R__ SETA 1"--list .\listings\startup_msp432.lst --xref -o .\objects\startup_msp432.o --depend .\objects\startup_msp432.d)
+F (RTE\Device\MSP432P401R\system_msp432.c)(0x5539B098)(--c99 -c --cpu Cortex-M4 -g -O0 --apcs=interwork --split_sections --signed_chars -I..\inc-I C:\Keil_v5\TM4C123ValvanoWare\MSP432ValvanoWare\Lab3_MSP432\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -D__MSP432P401R__-o .\objects\system_msp432.o --omf_browse .\objects\system_msp432.crf --depend .\objects\system_msp432.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include\msp.h)(0x55E8C9F6)
+I (C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include\msp432p401r.h)(0x55E8CA02)
+I (C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include\msp_compatibility.h)(0x55EF37AA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x56266DDC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56265A20)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56265A20)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56265A20)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x56265A20)
+I (C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include\system_msp432.h)(0x55E5EFBA)

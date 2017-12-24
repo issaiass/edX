@@ -1,0 +1,14 @@
+.\objects\ap.o: ..\inc\AP.c
+.\objects\ap.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ap.o: ..\inc\../inc/CortexM.h
+.\objects\ap.o: ..\inc\../inc/UART0.h
+.\objects\ap.o: ..\inc\../inc/UART1.h
+.\objects\ap.o: ..\inc\../inc/AP.h
+.\objects\ap.o: ..\inc\../inc/msp432p401r.h
+.\objects\ap.o: C:\Keil_v5\ARM\PACK\TexasInstruments\MSP432\1.0.1\Device\Include\msp_compatibility.h
+.\objects\ap.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h
+.\objects\ap.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\ap.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\ap.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\ap.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h
+.\objects\ap.o: ..\inc\../inc/GPIO.h
